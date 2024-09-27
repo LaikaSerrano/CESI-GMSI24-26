@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "5d09590fea105f26",
+    "type": "split",
+    "children": [
+      {
+        "id": "a87a3db8c7089e21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14845227640b30e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloc 1/Microsoft prise en main.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c86759da062eb677",
+    "type": "split",
+    "children": [
+      {
+        "id": "16e38ccb4f904a6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bf003eeb12f1b58",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "034aa8b42900543e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5249a3e1fdce83b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "39faab38f9b9a2c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c7e04c733730f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "842cb8e8f0bdd5fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bloc 1/Microsoft prise en main.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "915eca9a8b6106fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bloc 1/Microsoft prise en main.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d0e717aaa983235c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7d1a1b02514e3472",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bloc 1/Microsoft prise en main.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
+    }
+  },
+  "active": "14845227640b30e5",
+  "lastOpenFiles": [
+    "Documents/images/schemaUserOS.png",
+    "Documents/Système d'exploitation.pdf",
+    "Bloc 1/Microsoft prise en main.md",
+    "Documents/Ordinateur et matériel.pdf",
+    "Documents/images/EquipementCisco.png",
+    "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
+    "Documents/images/NombreBrochePCIE.png",
+    "Documents/images/VitesseGenPCIE.png",
+    "Documents/images",
+    "Pasted image 20240927114647.png",
+    "Bloc 1/Bloc 1.md",
+    "2024-09-27.md",
+    "CUBE1/Fiche de synthèse RGPD.md",
+    "CUBE1/Chartes du RGPD.md",
+    "CUBE1/Charte informatique communauté de commune de Castillon.md",
+    "exports/Logigramme.drawio.png",
+    "CUBE1/Logigramme.drawio",
+    "Documents/Calendrier Formation alternance Nathan Serrano.png",
+    "Calendrier Formation alternance Nathan Serrano.png",
+    "CUBE1/Maintenance organisation.csv",
+    "CUBE1/CUBESSujet.pdf",
+    "exports/Fonctionnement des ordinateurs et de ses composants.pdf",
+    "exports/Charte informatique communauté de commune de Castillon.pdf",
+    "exports",
+    "Bloc 1/exports/Charte informatique communauté de commune de Castillon.pdf",
+    "rentrée/Sans titre.md",
+    "rentrée/Atelier forces.md"
+  ]
+}
