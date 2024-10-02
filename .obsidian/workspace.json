@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a87a3db8c7089e21",
+        "id": "f844740be79322dc",
         "type": "tabs",
         "children": [
           {
-            "id": "14845227640b30e5",
+            "id": "aee1855bb7d25363",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Traitement de données avec excel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "97a14447857330d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloc 1/Fondamentaux du réseau.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Fondamentaux du réseau.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Fondamentaux du réseau.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +138,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md"
+                "file": "Bloc 1/Fondamentaux du réseau.md"
               }
+            }
+          },
+          {
+            "id": "438f569aab9452a4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -144,36 +165,41 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14845227640b30e5",
+  "active": "97a14447857330d2",
   "lastOpenFiles": [
-    "Documents/images/schemaUserOS.png",
-    "Documents/Système d'exploitation.pdf",
+    "Bloc 1/Traitement de données avec excel.md",
+    "Bloc 1/Fondamentaux du réseau.md",
+    "Documents/Excel/~$Leixa Formation Cahier d'exercices V3.xlsx",
+    "Documents/Excel/~$Base de données .xlsx",
+    "Documents/Excel/~$se de données .xlsx",
+    "Documents/Excel/~$ex-001.xlsx",
+    "Documents/Excel/~$ex-01.docx",
+    "Documents/Excel/~$rnet ex-01.xlsx",
+    "Documents/Excel/~$Carnet ex-01.xlsx",
+    "Documents/Excel/Carnet ex-01.xlsx",
+    "Documents/Excel/ex-01.docx",
+    "Documents/Excel/ex-001.xlsx",
     "Bloc 1/Microsoft prise en main.md",
-    "Documents/Ordinateur et matériel.pdf",
-    "Documents/images/EquipementCisco.png",
     "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
-    "Documents/images/NombreBrochePCIE.png",
-    "Documents/images/VitesseGenPCIE.png",
-    "Documents/images",
+    "Documents/images/Windows/EquipementCisco.png",
+    "Documents/images/FonctionnementOrdinateurs/VitesseGenPCIE.png",
+    "Documents/images/FonctionnementOrdinateurs/NombreBrochePCIE.png",
+    "Documents/images/Windows/schemaUserOS.png",
+    "Documents/images/excel/ExempleExcelTickets.png",
+    "Bloc 1/Anglais métier.md",
+    "CUBE1/Fiche de synthèse RGPD.md",
+    "CUBE1/Boite à outils.md",
+    "CUBE1/Charte informatique communauté de commune de Castillon.md",
+    "Documents/Calendrier Formation alternance Nathan Serrano.png",
     "Pasted image 20240927114647.png",
     "Bloc 1/Bloc 1.md",
     "2024-09-27.md",
-    "CUBE1/Fiche de synthèse RGPD.md",
     "CUBE1/Chartes du RGPD.md",
-    "CUBE1/Charte informatique communauté de commune de Castillon.md",
     "exports/Logigramme.drawio.png",
-    "CUBE1/Logigramme.drawio",
-    "Documents/Calendrier Formation alternance Nathan Serrano.png",
     "Calendrier Formation alternance Nathan Serrano.png",
-    "CUBE1/Maintenance organisation.csv",
-    "CUBE1/CUBESSujet.pdf",
-    "exports/Fonctionnement des ordinateurs et de ses composants.pdf",
-    "exports/Charte informatique communauté de commune de Castillon.pdf",
-    "exports",
-    "Bloc 1/exports/Charte informatique communauté de commune de Castillon.pdf",
     "rentrée/Sans titre.md",
     "rentrée/Atelier forces.md"
   ]

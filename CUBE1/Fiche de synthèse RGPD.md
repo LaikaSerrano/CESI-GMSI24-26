@@ -7,3 +7,6 @@ Le RGPD offre à chaque individu la possibilité de récupérer une partie de se
 Dans un cadre scolaire, en ce qui concerne les données, le traitement de toute les données doit être consenti par les utilisateurs ou leur(s) tuteur(s) légal(aux) (utilisateur mineur). Ces données peuvent être les résultats scolaires, la profession des parents, les revenus familiaux, le pays de naissance etc.
 Il est impératif d'avoir un DPD (délégué à la protection des données) dans chaque académie, pour vérifier que le RGPD est respecté dans le groupe scolaire pour les élèves, enseignants, sous-traitants ou prestataires. 
 Tous les traitements réalisés sur les équipements des écoles doit figurer sur le registre de l'établissement.
+
+
+https://viacesifr-my.sharepoint.com/:w:/r/personal/nathan_serrano_viacesi_fr/_layouts/15/Doc.aspx?sourcedoc=%7B899B5403-6236-4B8F-8DDC-BA9FFFD19E19%7D&file=Document.docx&action=editnew&mobileredirect=true&wdPreviousSession=5d216520-95a5-a19b-dd63-e59a349d9627&wdNewAndOpenCt=1727686043685&wdo=4&wdOrigin=wacFileNew&wdPreviousCorrelation=107e018f-af42-45b7-9959-41241253c471&wdnd=1&wdTpl=blankNew

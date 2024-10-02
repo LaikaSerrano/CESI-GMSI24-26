@@ -13,3 +13,4 @@ Lorsqu'une image se trouve sur internet, je n'ai pas forcément le droit de l'ut
 #### Mots de passe
 Tout les comptes utilisateurs doivent être robuste et contenir au moins 12 caractères (lettre, caractères spéciaux, chiffre), il est important pour la sécurité sur internet d'avoir un mot de passe compliqué pour ne pas se le faire voler.
 
+https://viacesifr-my.sharepoint.com/:w:/r/personal/marouane_bouderbala_viacesi_fr/_layouts/15/Doc.aspx?sourcedoc=%7BA79F0FE8-24B6-440D-B12B-BBE9B9D54156%7D&file=Charte.docx&fromShare=true&action=default&mobileredirect=true
