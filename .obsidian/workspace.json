@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aee1855bb7d25363",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bloc 1/Traitement de données avec excel.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "97a14447857330d2",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,18 +157,21 @@
   },
   "active": "97a14447857330d2",
   "lastOpenFiles": [
-    "Bloc 1/Traitement de données avec excel.md",
+    "Documents/Reseau/TP2 IOS.pdf",
+    "Documents/Reseau/ciscoTP2.pkt",
     "Bloc 1/Fondamentaux du réseau.md",
+    "Documents/Reseau/ciscoTP1.pkt~",
+    "Documents/Reseau/ciscoTP1.pkt",
+    "Documents/Reseau/TP1 Découverte Packet Tracer.pdf",
+    "Pasted image 20241002115738.png",
+    "Pasted image 20241002115725.png",
+    "Documents/Reseau/Bases reseau Composants.pdf",
+    "Documents/Reseau",
+    "Documents/dossier sans titre",
+    "Bloc 1/Traitement de données avec excel.md",
     "Documents/Excel/~$Leixa Formation Cahier d'exercices V3.xlsx",
     "Documents/Excel/~$Base de données .xlsx",
     "Documents/Excel/~$se de données .xlsx",
-    "Documents/Excel/~$ex-001.xlsx",
-    "Documents/Excel/~$ex-01.docx",
-    "Documents/Excel/~$rnet ex-01.xlsx",
-    "Documents/Excel/~$Carnet ex-01.xlsx",
-    "Documents/Excel/Carnet ex-01.xlsx",
-    "Documents/Excel/ex-01.docx",
-    "Documents/Excel/ex-001.xlsx",
     "Bloc 1/Microsoft prise en main.md",
     "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
     "Documents/images/Windows/EquipementCisco.png",
@@ -199,7 +189,6 @@
     "2024-09-27.md",
     "CUBE1/Chartes du RGPD.md",
     "exports/Logigramme.drawio.png",
-    "Calendrier Formation alternance Nathan Serrano.png",
     "rentrée/Sans titre.md",
     "rentrée/Atelier forces.md"
   ]
