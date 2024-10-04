@@ -45,5 +45,10 @@
   "Documents/images/FonctionnementOrdinateurs": "LiAperture",
   "Documents/images/Windows": "LiAtom",
   "Documents/images/excel": "LiDatabase",
-  "Bloc 1/Fondamentaux du réseau.md": "LiNetwork"
+  "Bloc 1/Fondamentaux du réseau.md": "LiNetwork",
+  "Documents/images/Réseau": "LiNetwork",
+  "Documents/Reseau": "LiNetwork",
+  "Documents/Excel": "LiDatabase",
+  "Documents/Microsoft prise en main": "LiAtom",
+  "Documents/Microsoft prise en main/Ordinateur et matériel.pdf": "LiAtom"
 }

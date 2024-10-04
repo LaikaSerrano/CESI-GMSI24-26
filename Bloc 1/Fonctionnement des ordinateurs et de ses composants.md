@@ -28,7 +28,7 @@ Cyrille.abraham@gmail.com
 	Ethernet (rj45)
 	USB
 	PS/2
-	Port série (port COM) / RS232
+	Port série (port COM) / RS232 (envoie direct des caractères de clavier par le port)
 	DB25 | 
 	eSATA
 

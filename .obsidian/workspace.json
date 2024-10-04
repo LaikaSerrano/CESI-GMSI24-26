@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f844740be79322dc",
+        "id": "45ea58e039601318",
         "type": "tabs",
         "children": [
           {
-            "id": "97a14447857330d2",
+            "id": "badbc247b6dc519d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloc 1/Fondamentaux du réseau.md",
+                "file": "Bloc 1/Microsoft prise en main.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloc 1/Fondamentaux du réseau.md",
+                "file": "Bloc 1/Microsoft prise en main.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloc 1/Fondamentaux du réseau.md",
+                "file": "Bloc 1/Microsoft prise en main.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloc 1/Fondamentaux du réseau.md"
+                "file": "Bloc 1/Microsoft prise en main.md"
               }
             }
           },
@@ -155,25 +155,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "97a14447857330d2",
+  "active": "438f569aab9452a4",
   "lastOpenFiles": [
-    "Documents/Reseau/TP2 IOS.pdf",
-    "Documents/Reseau/ciscoTP2.pkt",
+    "Documents/Microsoft prise en main/Ordinateur et matériel.pdf",
+    "Documents/Microsoft prise en main",
+    "Bloc 1/Microsoft prise en main.md",
+    "Documents/Reseau/TP4 Connectivité de base.pdf",
+    "Documents/Reseau/ciscoTP4.pkt~",
+    "Documents/Reseau/ciscoTP4.pkt",
+    "Documents/Reseau/TP3 Configuration initiale switch.pdf",
     "Bloc 1/Fondamentaux du réseau.md",
-    "Documents/Reseau/ciscoTP1.pkt~",
-    "Documents/Reseau/ciscoTP1.pkt",
-    "Documents/Reseau/TP1 Découverte Packet Tracer.pdf",
+    "Documents/images/Réseau/protocolesApplication.png",
+    "Documents/Reseau/Bases reseau Modele OSI TCP IP.pdf",
+    "Documents/images/Réseau/Encapsulation.png",
+    "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
+    "Documents/images/Réseau/equivalentOSIetTCPIP.png",
+    "Documents/images/Réseau",
+    "Documents/Reseau/ciscoTP3.pkt~",
+    "Documents/Reseau/ciscoTP3.pkt",
+    "Documents/TP3 Configuration initiale switch.pdf",
+    "2024-10-02.md",
+    "Sans titre.canvas",
     "Pasted image 20241002115738.png",
     "Pasted image 20241002115725.png",
-    "Documents/Reseau/Bases reseau Composants.pdf",
-    "Documents/Reseau",
-    "Documents/dossier sans titre",
     "Bloc 1/Traitement de données avec excel.md",
-    "Documents/Excel/~$Leixa Formation Cahier d'exercices V3.xlsx",
-    "Documents/Excel/~$Base de données .xlsx",
-    "Documents/Excel/~$se de données .xlsx",
-    "Bloc 1/Microsoft prise en main.md",
-    "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
     "Documents/images/Windows/EquipementCisco.png",
     "Documents/images/FonctionnementOrdinateurs/VitesseGenPCIE.png",
     "Documents/images/FonctionnementOrdinateurs/NombreBrochePCIE.png",
@@ -183,12 +188,9 @@
     "CUBE1/Fiche de synthèse RGPD.md",
     "CUBE1/Boite à outils.md",
     "CUBE1/Charte informatique communauté de commune de Castillon.md",
-    "Documents/Calendrier Formation alternance Nathan Serrano.png",
-    "Pasted image 20240927114647.png",
     "Bloc 1/Bloc 1.md",
     "2024-09-27.md",
     "CUBE1/Chartes du RGPD.md",
-    "exports/Logigramme.drawio.png",
     "rentrée/Sans titre.md",
     "rentrée/Atelier forces.md"
   ]

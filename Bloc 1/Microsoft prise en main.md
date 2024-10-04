@@ -29,6 +29,11 @@ Ordre lors d'un boot : firmware -> Programme d'amorçage (bios) -> OS
 Le firmware se trouve dans de la ROM donc non effaçable
 Il gère la plupart du temps le matériel dans sa globalité
 
+# 2024-10-04
+
+
+
+
 
 
 
