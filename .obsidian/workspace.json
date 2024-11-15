@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "45ea58e039601318",
+        "id": "0bc7d52a2eea4332",
         "type": "tabs",
         "children": [
           {
-            "id": "badbc247b6dc519d",
+            "id": "34c55f6f602b1c02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Fondamentaux du réseau.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Fondamentaux du réseau"
+            }
+          },
+          {
+            "id": "6f498fd20de7ef79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bloc 1/Communication support utilisateur.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Communication support utilisateur"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,14 +83,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "39faab38f9b9a2c6",
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Communication support utilisateur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Communication support utilisateur"
             }
           },
           {
@@ -102,10 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md",
+                "file": "Bloc 1/Communication support utilisateur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Communication support utilisateur"
             }
           },
           {
@@ -116,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bloc 1/Microsoft prise en main.md"
-              }
+                "file": "Bloc 1/Communication support utilisateur.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Communication support utilisateur"
             }
           },
           {
@@ -134,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -142,49 +175,50 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Ouvrir le sélecteur rapide": false,
-      "graph:Ouvrir la vue graphique": false,
-      "canvas:Créer une nouvelle toile": false,
-      "daily-notes:Ouvrir la note quotidienne": false,
-      "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "438f569aab9452a4",
+  "active": "6f498fd20de7ef79",
   "lastOpenFiles": [
-    "Documents/Microsoft prise en main/Ordinateur et matériel.pdf",
-    "Documents/Microsoft prise en main",
-    "Bloc 1/Microsoft prise en main.md",
-    "Documents/Reseau/TP4 Connectivité de base.pdf",
-    "Documents/Reseau/ciscoTP4.pkt~",
-    "Documents/Reseau/ciscoTP4.pkt",
-    "Documents/Reseau/TP3 Configuration initiale switch.pdf",
     "Bloc 1/Fondamentaux du réseau.md",
-    "Documents/images/Réseau/protocolesApplication.png",
-    "Documents/Reseau/Bases reseau Modele OSI TCP IP.pdf",
-    "Documents/images/Réseau/Encapsulation.png",
+    "Bloc 1/Communication support utilisateur.md",
+    "Documents/Reseau/TP16-Routage intervlan Switch L3.pdf",
+    "Documents/Reseau/TP16-Routage intervlan Switch L3.pkt~",
+    "Documents/Reseau/TP10-Routage dynamique RIP.pkt~",
+    "Documents/Reseau/TP10-Routage dynamique RIP.pdf",
+    "Documents/Reseau/TP9-Router on a stick.pkt~",
+    "Documents/Reseau/TP16-Routage intervlan Switch L3.pkt",
+    "Documents/Reseau/TP10-Routage dynamique RIP.pkt",
+    "Documents/Reseau/TP9-Router on a stick.pdf",
+    "Documents/Reseau/TP8-VLANs et Trunks.pkt~",
+    "Documents/Reseau/TP9-Router on a stick.pkt",
+    "Bloc 1/Anglais métier.md",
     "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
+    "Documents/images/Réseau/CoummutateurError.png",
+    "Bloc 1/Traitement de données avec excel.md",
+    "Bloc 1/Microsoft prise en main.md",
+    "Documents/images/Réseau/protocolesApplication.png",
+    "Documents/images/Réseau/Encapsulation.png",
     "Documents/images/Réseau/equivalentOSIetTCPIP.png",
-    "Documents/images/Réseau",
-    "Documents/Reseau/ciscoTP3.pkt~",
-    "Documents/Reseau/ciscoTP3.pkt",
-    "Documents/TP3 Configuration initiale switch.pdf",
     "2024-10-02.md",
     "Sans titre.canvas",
     "Pasted image 20241002115738.png",
     "Pasted image 20241002115725.png",
-    "Bloc 1/Traitement de données avec excel.md",
     "Documents/images/Windows/EquipementCisco.png",
     "Documents/images/FonctionnementOrdinateurs/VitesseGenPCIE.png",
     "Documents/images/FonctionnementOrdinateurs/NombreBrochePCIE.png",
     "Documents/images/Windows/schemaUserOS.png",
-    "Documents/images/excel/ExempleExcelTickets.png",
-    "Bloc 1/Anglais métier.md",
     "CUBE1/Fiche de synthèse RGPD.md",
     "CUBE1/Boite à outils.md",
     "CUBE1/Charte informatique communauté de commune de Castillon.md",

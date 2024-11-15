@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiAccessibility",
       "LiNetwork",
       "LiDatabase",
       "🧰",
-      "LiAlbum",
-      "LiAtom"
+      "LiAlbum"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,6 @@
   "Documents/Reseau": "LiNetwork",
   "Documents/Excel": "LiDatabase",
   "Documents/Microsoft prise en main": "LiAtom",
-  "Documents/Microsoft prise en main/Ordinateur et matériel.pdf": "LiAtom"
+  "Documents/Microsoft prise en main/Ordinateur et matériel.pdf": "LiAtom",
+  "Bloc 1/Communication support utilisateur.md": "LiAccessibility"
 }

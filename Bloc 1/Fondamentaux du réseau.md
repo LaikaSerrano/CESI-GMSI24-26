@@ -246,9 +246,118 @@ HTTP, TELNET, SSH, FTP, SMTP, DNS, DHCP, SNMP pour l'application
 Mise en place d'un serveur ssh sur le switch
 
 
+## Commutateur et routage
+Switch -> Niveau 2 (liaison de données), responsable commutation LAN
+Table CAM -> dynamique dans le switch quand on connecte un périphérique
+	-> Utilise adresse mac pour savoir où se trouve un périphérique
+PDU -> Trame
+
+Switch de distribution -> connecte des switchs d'accès entre eux (souvent que des interface très haut débit)
+
+Switch coeur de réseau -> connecte les distributions entre eux
 
 
+Routeur -> NIveau 3 (réseau)
+	-> Interconnecte des réseaux différents
+	Responsable commutation de paquet sur WAN (PDU Paquet)
+	Table de routage
+
+Commutation de circuit -> exploite protocoles orientés connexion -> comparable ancien réseau téléphonique
+
+Commutation de paquet -> protocoles non orientés connexion -> comparable envoie de colis
+	A la fin le lot est reconstitué
+
+Commutation sur plusieurs couches, sur la 2 on utilise l'adresse MAC
+Quand trame arrive au switch il regarde table CAM puis envoie à l'adresse MAC associée
+
+Commutation de niveau 3 (routage)
+Quand on envoie un paquet, le routeur prend la décision sur le chemin le plus efficace à suivre
+Prise de décision : routage dynamique, BGP, OSPF, RIP etc
+
+Voir support si besoin
+
+## [[TP5-Identification d'adresses MAC et IP.pdf]]
 
 
+### Réponses 
+1) On a utilisé différents support, cable rj45, wifi et fibre
+2) En lui même le paquet n'a pas changé, par contre on remarque bien dans la simulation une différence
+3) Oui on a perdu avec le concentrateur : ![[CoummutateurError.png]]
+4) Il masque les adresses IP et MAC de la source au destinataire
+5) Oui il les a utilisées
+6) On ne perd pas d'adresse dans la transmission sans fil
+7) Le max est le layer 3
+8) En premier on a l'adresse destination
+9) On doit avoir les adresses dans cet ordre sinon on risque de perdre une partie et le destinataire ne pourrait pas renvoyer la requete à la source
+10) Les adresses MAC changent au niveau du routeur puisque les réseaux sont différents
+11) Le routeur utilise des adresses MAC 00D0
+12) Les autres adresses appartiennent aux endpoints
+13) Les IPv4 changent quand on doit retourner vers l'adresse source
+14) Les différents réseaux sont sur des ports différents du routeur car sinon il rentrerait en conflit entre eux
 
 
+## [[TP6-Examen des tables ARP et CAM.pdf]]
+
+### 1)
+1) FFFF.FFFF.FFFF
+2) On a fait 3 copies du packet parce que on ne sait pas où aller sans la table ARP
+3) Le périphérique 172.16.31.3 a accepté le paquet
+4) Le périphérique va répondre avec son adresse MAC dans le corps de la réponse
+5) Cette fois-ci le switch ne fait plus qu'un seul exemplaire du paquet car il sait où aller
+6) Maintenant les adresses de dest et de source correspondent aux pc
+7) L'entrée correspond à l'adresse MAC de 172.16.31.3
+8) Un endpoint émet une requete ARP lorsque l'IP ne se trouve pas dans sa table ARP, à ce moment là il va demander a tout le réseau avec la MAC FFFF.FFFF.FFFF pour récupérer la MAC du périphérique possédant l'adresse IP qu'il demande
+
+### 2) 
+1) On récupère 100% des requètes
+2) Dans le switch 1 les mac correspondent aux autres périphériques du sous réseau
+3) Dans le switch0 aussi on a les mac des périphériques réseau, sauf celle de l'AP
+4) Deux adresses sont sur la même interface car simplement ils passent par un AP qui est branché sur une seule interface
+5) La nouvelle entrée correspond à 172.16.31.1 qui est le routeur de ce réseau
+6) On a 2 unités de données différentes quand la table est vide
+7) 172.16.31.1 est la destination de la requête
+8) L'adresse est différente car on ne se trouve pas dans le même réseau donc on passe par le routeur
+9) Il n'y a aucune MAC address, surement car on ne communique avec aucun autre réseau
+10) Il y a une entrée pour 172.16.31.2
+11) La première requête ping sera perdue car il n'y a pas la MAC Address de retour, donc elle ne sera pas ou revenir mais le routeur va l'ajouter pour que les suivantes fonctionnent
+
+
+## [[TP7-Configuration de routeurs.pdf]]
+
+
+1) Hostname : Router
+2) 0 Fa
+3) 3Ga
+4) une interface série
+5) 0-4 vty
+6)3Il n'y a pas de startup config car elle n'a pas été config
+7) Quand on ping rien ne répond car les interfaces du routeur sont éteintes
+8) Mac Gi0 : 0000.0cba.5901
+9) bande passante : 100mbps
+10) les routes présentes sont des C et des L soit connectés et locales
+11) il y a 3 routes connectés représentants des routeur ou switchs
+12) Si la route ne figure pas dans la table de routage on a 2 paquets (ARP puis paquet de base)
+
+
+## [[TP8-VLANs et Trunks.pdf]]
+
+### Réponses
+1) Actuellement les seuls pc qui répondent sont dans le même sous réseau (10. / 20. / 30.)
+2) La configuration de Vlan apportera que tout les réseaux pourront communiquer entre eux
+3) Pour voir uniquement le nom des vlan on utilise `show vlan brief`
+4) Pour l'instant comme tout à l'heure les seuls à répondre sont dans le même sous réseau car les interfaces ne sont pas dans les  vlan
+5) Là on ne peut plus ping pc4 depuis pc1 car la vlan n'est pas configurée sur le switch 1
+6) On considère encore dans un réseau différents les autres PC, ce qui est normal du fait de leur vlan 
+
+## [[TP9-Router on a stick.pdf]]
+
+### Réponses
+1) Les périphériques ne répondent pas, réseau différents
+2) De même qu'avant on ne peut pas car maintenant ils sont dans des vlan différents et que les routeurs n'ont pas la capacité d'envoyer vers les autres réseaux
+3) Ici tout marche car on a bien configuré les routeurs
+4) Il y a des routes connectées, statique et locales
+5) Il y a 3 routes connectées, c'est celle qui sont directement connectées au routeur
+
+## [[TP10-Routage dynamique RIP.pdf]]
+
+## [[TP16-Routage intervlan Switch L3.pdf]]
