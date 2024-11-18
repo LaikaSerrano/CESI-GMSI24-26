@@ -51,5 +51,6 @@
   "Documents/Excel": "LiDatabase",
   "Documents/Microsoft prise en main": "LiAtom",
   "Documents/Microsoft prise en main/Ordinateur et matériel.pdf": "LiAtom",
-  "Bloc 1/Communication support utilisateur.md": "LiAccessibility"
+  "Bloc 1/Communication support utilisateur.md": "LiAccessibility",
+  "Documents/Communication Support Utilisateur": "LiAccessibility"
 }
