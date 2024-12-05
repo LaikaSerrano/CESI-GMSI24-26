@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0bc7d52a2eea4332",
+        "id": "e0ec65abdbb3afa9",
         "type": "tabs",
         "children": [
           {
-            "id": "34c55f6f602b1c02",
+            "id": "11501b5116dc7db0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bloc 1/Communication support utilisateur.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Communication support utilisateur"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -173,26 +169,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "34c55f6f602b1c02",
+  "active": "11501b5116dc7db0",
   "lastOpenFiles": [
-    "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
-    "Bloc 1/Anglais métier.md",
+    "Bloc 1/Microsoft prise en main.md",
+    "Documents/Microsoft prise en main/INFAL53 - SauvegardeDesFichiers.pdf",
+    "Documents/Microsoft prise en main/Cours 3 - RAID.pdf",
+    "Documents/Microsoft prise en main/GestionDesDisques.pdf",
     "Bloc 1/Communication support utilisateur.md",
+    "Bloc 1/Anglais métier.md",
+    "CUBE1/Note.md",
+    "CUBE1/Charte informatique communauté de commune de Castillon.md",
+    "CUBE1/Fiche de synthèse RGPD.md",
+    "Documents/Anglais/present simple my week.pdf",
+    "Documents/Anglais/214730115200002_Attestations_de_competence_en_langues_vivantes_V1_20230711.PDF",
+    "Documents/Anglais/Consignes_etudiants_N5_A1.pdf",
+    "Documents/Anglais/evaluation CESI.pdf",
+    "Documents/Anglais",
+    "Documents/Nouveau dossier",
+    "Documents/Calendrier Formation alternance Nathan Serrano.png",
+    "Documents/engagement citoyen/Annexe_liste_thematiques.pdf",
+    "Bloc 1/ProjetPro.md",
+    "Bloc 1/Fonctionnement des ordinateurs et de ses composants.md",
     "Bloc 1/Fondamentaux du réseau.md",
     "Documents/images/Windows/schemaUserOS.png",
-    "Documents/Communication Support Utilisateur/Diapositives Module INFAL57 ven15nov24.pptx",
-    "Documents/Communication Support Utilisateur",
-    "Documents/Nouveau dossier",
-    "Documents/Reseau/TP16-Routage intervlan Switch L3.pdf",
-    "Documents/Reseau/TP16-Routage intervlan Switch L3.pkt~",
-    "Documents/Reseau/TP10-Routage dynamique RIP.pkt~",
-    "Documents/Reseau/TP10-Routage dynamique RIP.pdf",
-    "Documents/Reseau/TP9-Router on a stick.pkt~",
-    "Documents/Reseau/TP16-Routage intervlan Switch L3.pkt",
-    "Documents/Reseau/TP10-Routage dynamique RIP.pkt",
     "Documents/images/Réseau/CoummutateurError.png",
     "Bloc 1/Traitement de données avec excel.md",
-    "Bloc 1/Microsoft prise en main.md",
     "Documents/images/Réseau/protocolesApplication.png",
     "Documents/images/Réseau/Encapsulation.png",
     "Documents/images/Réseau/equivalentOSIetTCPIP.png",
@@ -202,10 +203,7 @@
     "Pasted image 20241002115725.png",
     "Documents/images/Windows/EquipementCisco.png",
     "Documents/images/FonctionnementOrdinateurs/VitesseGenPCIE.png",
-    "Documents/images/FonctionnementOrdinateurs/NombreBrochePCIE.png",
-    "CUBE1/Fiche de synthèse RGPD.md",
     "CUBE1/Boite à outils.md",
-    "CUBE1/Charte informatique communauté de commune de Castillon.md",
     "Bloc 1/Bloc 1.md",
     "2024-09-27.md",
     "CUBE1/Chartes du RGPD.md",

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiAccessibility",
-      "LiNetwork",
-      "LiDatabase",
-      "🧰",
-      "LiAlbum"
+      "LiAlbum",
+      "LiArrowLeftRight",
+      "LiAxis3d",
+      "LiAlarmClockMinus",
+      "LiAccessibility"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,9 @@
   "Documents/Microsoft prise en main": "LiAtom",
   "Documents/Microsoft prise en main/Ordinateur et matériel.pdf": "LiAtom",
   "Bloc 1/Communication support utilisateur.md": "LiAccessibility",
-  "Documents/Communication Support Utilisateur": "LiAccessibility"
+  "Documents/Communication Support Utilisateur": "LiAccessibility",
+  "Bloc 1/ProjetPro.md": "LiAxis3d",
+  "Documents/Projet Pro": "LiAxis3d",
+  "Documents/engagement citoyen": "LiArrowLeftRight",
+  "Documents/Anglais": "LiAlbum"
 }
